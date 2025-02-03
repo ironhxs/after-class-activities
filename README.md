@@ -18,6 +18,6 @@
 >> 两个视频
 >> 
 >本人是队长，主要负责与地方联系，活动组织，and小程序
-3. 2025冬 数学建模美赛
+3. 2025冬 [数学建模美赛](https://github.com/ironhxs/MCM)
 # 学习之外的生活活动
 1. 💝[生日惊喜](https://github.com/ironhxs/Happy-Birthday)💝
